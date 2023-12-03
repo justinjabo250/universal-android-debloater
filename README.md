@@ -7,7 +7,9 @@ could happen to your phone.
 
 **This software is still in an early stage of development. Check out the issues, and feel free to contribute!**
 
+
 ## Summary
+
 
 This is a complete rewrite in Rust of the [UAD project](https://gitlab.com/W1nst0n/universal-android-debloater),
 which aims to improve privacy and battery performance by removing unnecessary
